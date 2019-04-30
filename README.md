@@ -1,18 +1,24 @@
-º» ÇÁ·ÎÁ§Æ®´Â MAC ( movie and cinema ) ¼Ò½º °øÀ¯ ÀúÀå °ø°£ÀÔ´Ï´Ù.
+ë³¸ í”„ë¡œì íŠ¸ëŠ” MAC ( movie and cinema ) ì†ŒìŠ¤ ê³µìœ  ì €ì¥ ê³µê°„ì…ë‹ˆë‹¤. <br>
 
+í”„ë¡œì íŠ¸ëª…	   (Movie and cinema) <br>
+ì°¸ì—¬ì¸ì›	4ëª… <br>
+ê¸°ê°„	2019.04.08 ~ 2019.04.26 (18ì¼) <br>
+ê°œë°œí™˜ê²½	 OS		Windows 7 Professional K <br>
+	 WAS		Apache Tomcat 8.5  <br>
+	 
+	 DBMS		Oracle 11g Express Edition  <br>
+	 
+	 Language	Java Platform 8 , JSP & Servlet  <br>
+	 
+	 FrameWork	ì „ìì •ë¶€ í‘œì¤€ í”„ë ˆì„ì›Œí¬(Spring Frame),  Mybatis ì ìš© <br>
+	 
+	 Web		HTML5, CSS/CSS3, JavaScript <br>
+	 
+	 Tool		Spring tool suite 3.9.5, Sqldeveloper, eXERD (E-R Modeling Tool) <br>
+	 
+	 Open Source	jQuery v3.3.1, jQuery UI v.1.12.1, cos-26Dec2008 , <br>
+	 
+			jquery-ui-1.11.4,   jquery-easyui-1.4.5,Sementic ui, ë‹¤ìŒì§€ë„ API <br>
+			
 
-
-ÇÁ·ÎÁ§Æ®¸í	   (Movie and cinema)
-Âü¿©ÀÎ¿ø	4¸í
-±â°£	2019.04.08 ~ 2019.04.26 (18ÀÏ)
-°³¹ßÈ¯°æ	 OS		Windows 7 Professional K
-	 WAS		Apache Tomcat 8.5
-	 DBMS		Oracle 11g Express Edition
-	 Language	Java Platform 8 , JSP & Servlet
-	 FrameWork	ÀüÀÚÁ¤ºÎ Ç¥ÁØ ÇÁ·¹ÀÓ¿öÅ©(Spring Frame),  Mybatis Àû¿ë
-	 Web		HTML5, CSS/CSS3, JavaScript
-	 Tool		Spring tool suite 3.9.5, Sqldeveloper, eXERD (E-R Modeling Tool)
-	 Open Source	jQuery v3.3.1, jQuery UI v.1.12.1, cos-26Dec2008 ,
-			jquery-ui-1.11.4,   jquery-easyui-1.4.5,Sementic ui, ´ÙÀ½Áöµµ API
-
-- ¿µÈ­ ¿¹¸Å¸¦ À§ÇÑ  ÅëÇÕ À¥ »çÀÌÆ® 
+- ì˜í™” ì˜ˆë§¤ë¥¼ ìœ„í•œ  í†µí•© ì›¹ ì‚¬ì´íŠ¸ 
